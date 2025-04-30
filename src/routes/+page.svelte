@@ -3,7 +3,7 @@
 
 <div class="flex min-h-screen max-w-screen flex-col bg-[url(/bg-result.png)] bg-cover bg-no-repeat">
 	<div class="flex justify-between overflow-hidden">
-		<img src="logo.png" class="sm:scale-4 lg:scale-30"/> <img src="itCamp.png" class="m-10" />
+		<img src="logo.png" class="sm:scale-4 lg:scale-120"/> <img src="itCamp.png" class="m-10" />
 	</div>
 	<div class="flex flex-col items-center justify-center mt-20">
 		<img src="gemfatetitle.png" class="sm:scale-40 lg:scale-150 "/>
